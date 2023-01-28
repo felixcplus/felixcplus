@@ -1,2 +1,2 @@
-- 👋 Moin, Felix hier!
+- 👋 What's up!
 -> currently learning c++

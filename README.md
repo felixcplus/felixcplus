@@ -1,2 +1,2 @@
 - 👋 What's up!
--> currently learning c++
+- Now! You can go out from my profile!
